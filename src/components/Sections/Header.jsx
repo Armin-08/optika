@@ -3,7 +3,7 @@ import styled from "styled-components";
 // Components
 import FullButton from "../Buttons/FullButton";
 // Assets
-import HeaderImage from "../../assets/img/landing-page-slide.png";
+import HeaderImage from "../../assets/img/home-page-img-euro-optik.png";
 import img from "../../assets/img/img1.jpg";
 import QuotesIcon from "../../assets/svg/Quotes";
 import Dots from "../../assets/svg/Dots";
